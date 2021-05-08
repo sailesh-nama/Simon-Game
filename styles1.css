@@ -20,8 +20,8 @@ h1 {
 .btn {
   margin: 2px;
   display: inline-block;
-  height: 220px;
-  width: 220px;
+  height: 200px;
+  width: 200px;
   border: 10px solid black;
 }
 
