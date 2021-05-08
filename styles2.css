@@ -38,3 +38,9 @@ button {
   margin: 0 auto;
 
 }
+
+@media (max-width: 1028px) {
+  h1{
+    margin: 50% auto 5% auto;
+  }
+}

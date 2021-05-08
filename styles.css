@@ -46,3 +46,12 @@ button {
   box-shadow: 0 0 0 7px #FEF2BF;
   margin:3% auto 0 auto;
 }
+
+@media (max-width: 1028px) {
+  h1{
+    font-size: 5rem;
+  }
+  h4{
+    font-size: 3rem;
+  }
+}

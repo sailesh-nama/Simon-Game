@@ -20,8 +20,8 @@ h1 {
 .btn {
   margin: 2px;
   display: inline-block;
-  height: 220px;
-  width: 220px;
+  height: 240px;
+  width: 240px;
   border: 10px solid black;
 }
 
@@ -56,7 +56,16 @@ h1 {
 }
 
 @media (max-width: 1028px) {
+  h1{
+    font-size: 5rem;
+  }
+  .container {
+    display: block;
+    width: 80%;
+    margin: auto;
+  }
   .btn {
-    height: 180px;
-    width: 180px;
+    height: 240px;
+    width: 240px;
+}
 }
