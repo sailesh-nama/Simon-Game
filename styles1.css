@@ -20,8 +20,8 @@ h1 {
 .btn {
   margin: 2px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
+  height: 220px;
+  width: 220px;
   border: 10px solid black;
 }
 
@@ -53,4 +53,10 @@ h1 {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+@media (max-width: 1028px) {
+  .btn {
+    height: 180px;
+    width: 180px;
 }
