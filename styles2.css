@@ -1,0 +1,40 @@
+body {
+  background-color: #162447;
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+}
+
+h1{
+  text-align: center;
+  font-size: 6rem;
+  margin: 15% auto 5% auto;
+  color: red;
+}
+
+h4{
+  text-align: center;
+  font-size: 1.5rem;
+  margin:auto;
+}
+
+button {
+  display:inline-block;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: #FEF2BF;
+  width: 250px;
+  height: 40px;
+  border-radius: 30px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.2rem;
+  color: #162447;
+  box-shadow: 0 0 0 7px #FEF2BF;
+  margin:2% 1%;
+}
+
+.box{
+  text-align: center;
+  margin: 0 auto;
+
+}
