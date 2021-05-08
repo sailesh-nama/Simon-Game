@@ -58,14 +58,15 @@ h1 {
 @media (max-width: 1028px) {
   h1{
     font-size: 5rem;
+    margin-top: 65%;
   }
   .container {
     display: block;
-    width: 80%;
+    width: 95%;
     margin: auto;
   }
   .btn {
-    height: 240px;
-    width: 240px;
+    height: 250px;
+    width: 250px;
 }
 }
