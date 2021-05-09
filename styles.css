@@ -50,18 +50,18 @@ button {
 @media (max-width: 1028px) {
   h1{
     font-size: 5rem;
-    margin:25% auto;
+    margin:25% auto 15% auto;
   }
   h4{
     font-size: 3rem;
   }
   li{
     font-size: 0.8rem;
-  } 
+  }
   button {
     width: 500px;
     height: 80px;
-    margin:8% auto 0 auto;
+    margin:15% auto 8% auto;
     font-size: 2rem;
   }
   footer {
