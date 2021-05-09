@@ -17,7 +17,7 @@ function nextSequence(){
   randomNumber=Math.floor(randomNumber);
 
   i++;
-  $("h1").html("Level "+i);
+  $("h1").html("Level - "+i);
   abc=i;
 
   var randomChosenColor = buttonColors[randomNumber];

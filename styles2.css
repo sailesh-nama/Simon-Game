@@ -41,6 +41,12 @@ button {
 
 @media (max-width: 1028px) {
   h1{
-    margin: 65% auto 5% auto;
+    margin: 75% auto 5% auto;
+  }
+  button {
+    width: 500px;
+    height: 80px;
+    margin:10% auto 0 auto;
+    display: block;
   }
 }
