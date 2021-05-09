@@ -58,8 +58,8 @@ h1 {
 @media (max-width: 1028px) {
   h1{
     font-size: 5rem;
-    margin-top: 45%;
-    margin-bottom: 10%;
+    margin-top: 30%;
+    margin-bottom: 30%;
   }
   .container {
     display: block;
