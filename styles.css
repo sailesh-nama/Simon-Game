@@ -58,5 +58,12 @@ button {
     width: 500px;
     height: 80px;
     margin:10% auto 0 auto;
+    font-size: 2rem;
+  }
+  footer {
+    font-size: 2rem;
+  }
+  .a{
+    font-size: 2rem;
   }
 }
