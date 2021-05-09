@@ -50,6 +50,7 @@ button {
 @media (max-width: 1028px) {
   h1{
     font-size: 5rem;
+    margin:10% auto;
   }
   h4{
     font-size: 3rem;
