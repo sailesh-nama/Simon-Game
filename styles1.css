@@ -58,7 +58,7 @@ h1 {
 @media (max-width: 1028px) {
   h1{
     font-size: 5rem;
-    margin-top: 50%;
+    margin-top: 45%;
     margin-bottom: 10%;
   }
   .container {
@@ -67,7 +67,7 @@ h1 {
     margin: auto;
   }
   .btn {
-    height: 280px;
-    width: 280px;
+    height: 350px;
+    width: 350px;
 }
 }
